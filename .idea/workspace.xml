@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79f86cba-6f28-42de-9b26-04eb37b741c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webview_flutter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/webview_flutter/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="79f86cba-6f28-42de-9b26-04eb37b741c8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +59,21 @@
       <option name="project" value="LOCAL" />
       <updated>1603122829775</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="added usages">
+      <created>1603123088076</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603123088076</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added usages">
+      <created>1603123333855</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603123333855</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -72,13 +83,17 @@
     <option name="LAST_COMMIT_MESSAGE" value="added usages" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="214" y="0" key="CommitChangelistDialog2" timestamp="1603122829230">
+    <state x="214" y="0" key="CommitChangelistDialog2" timestamp="1603123333093">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="214" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603122829230" />
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603122841152">
+    <state x="214" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1603123333093" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1603123344262">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603122841152" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1603123344262" />
+    <state x="416" y="240" key="git4idea.ui.GitStashDialog" timestamp="1603123094972">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="416" y="240" key="git4idea.ui.GitStashDialog/0.0.1280.680@0.0.1280.680" timestamp="1603123094972" />
   </component>
 </project>

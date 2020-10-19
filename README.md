@@ -19,7 +19,7 @@ Add
                path: webview_flutter
                ref: webview
 
-``` as a [dev dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
+as a [dev dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
 You can now include a WebView widget in your widget tree. See the
 [WebView](https://pub.dev/documentation/webview_flutter/latest/webview_flutter/WebView-class.html)
