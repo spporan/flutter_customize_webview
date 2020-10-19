@@ -10,7 +10,11 @@ On iOS the WebView widget is backed by a [WKWebView](https://developer.apple.com
 On Android the WebView widget is backed by a [WebView](https://developer.android.com/reference/android/webkit/WebView).
 
 ## Usage
-Add `webview_flutter` as a [dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
+Add  ```  webview_flutter:
+             git:
+               url: https://github.com/spporan/flutter_customize_webview.git
+               path: webview_flutter
+               ref: webview``` as a [dev dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
 You can now include a WebView widget in your widget tree. See the
 [WebView](https://pub.dev/documentation/webview_flutter/latest/webview_flutter/WebView-class.html)
