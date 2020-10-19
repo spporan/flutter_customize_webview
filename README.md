@@ -18,6 +18,7 @@ Add
                url: https://github.com/spporan/flutter_customize_webview.git
                path: webview_flutter
                ref: webview
+               ```
 
 as a [dev dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
