@@ -11,14 +11,13 @@ On Android the WebView widget is backed by a [WebView](https://developer.android
 
 ## Usage
 Add
-```pubspec.yaml
+    pubspec.yaml
 
         webview_flutter:
              git:
                url: https://github.com/spporan/flutter_customize_webview.git
                path: webview_flutter
                ref: webview
-               ```
 
 as a [dev dependency in your pubspec.yaml file](https://flutter.io/platform-plugins/).
 
